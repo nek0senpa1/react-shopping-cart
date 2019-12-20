@@ -9,7 +9,7 @@ import ShoppingCart from './components/ShoppingCart';
 
 // first change
 
-// second change
+// 
 
 function App() {
 	const [products] = useState(data);
